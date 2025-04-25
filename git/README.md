@@ -101,7 +101,7 @@ Before requesting a review:
 
 ## Review Process
 
-- Use `[WIP]` in title if still in progress.
+- Use a *draft* pull request while the work is in progress.
 - Assign **at least two reviewers** once ready.
 - Be responsive to feedback and update PR as needed.
 - Don’t self-merge unless explicitly allowed (e.g., for solo-owned modules).
