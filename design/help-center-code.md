@@ -7,7 +7,10 @@ example:
 ```html
 <div class="row">
   <div class="half">
-    <p>wwwww</p>
+    <p>First half</p>
+  </div>
+    <div class="half">
+    <p>second Half</p>
   </div>
 </div>
 ```
